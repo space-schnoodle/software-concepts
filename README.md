@@ -6,6 +6,7 @@ Software concepts to prepare for interviews and for life :)
 
 1. [The Solid Principles](software-concepts/the-solid-principles.md)
 1. [Big O](software-concepts/big-o.md)
+1. [Object-oriented programming](software-concepts/oop.md)
 
 ## Javascript related
 
