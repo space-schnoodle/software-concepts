@@ -1,4 +1,4 @@
-## The Solid Principles
+# The Solid Principles
 
 The solid principles dramatically enhance the maintainnability of software.
 

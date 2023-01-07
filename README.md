@@ -5,6 +5,7 @@ Software concepts to prepare for interviews and for life :)
 ## Software engineer
 
 1. [The Solid Principles](software-concepts/the-solid-principles.md)
+1. [Big O](software-concepts/big-o.md)
 
 ## Javascript related
 
