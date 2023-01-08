@@ -36,3 +36,11 @@ A child class reuses properties of the parent class but also can implement its o
 - OPP treats data as a critical element.
 - Emphasis is on data rather that procedure.
 - Data is protected from external functions.
+
+## Difference between an interface and a class
+
+Writing an interface is similar to writing a class. But a class describes the attributes and behaviors of an object. And an interface contains behaviors that a class implements.
+
+# Sources
+
+- https://www.tutorialspoint.com/differences-between-interface-and-class-in-java#:~:text=Writing%20an%20interface%20is%20similar,behaviors%20that%20a%20class%20implements.

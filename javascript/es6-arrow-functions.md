@@ -18,3 +18,7 @@ const updatedNumbers = numbers.map((number) => (number += 1));
 ```
 
 **=>** This symbol is called fat arrow.
+
+## Note about scope
+
+Inside of an object you can use `this` to access its properties in a function for example. But it has to be a fuction not an arrow function, because with arrow functions `this` refers to the global runtime scope.

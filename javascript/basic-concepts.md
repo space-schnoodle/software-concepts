@@ -1,5 +1,13 @@
 # JavaScript Concepts
 
+- Weekly type language.
+- No explicit type assignment.
+- Data types can be switched dynamically.
+- Data cab be organized in logical objects.
+- Primitive and reference types.
+- Versatile language.
+- You can mix different types in an array.
+
 ## JavaScript types
 
 ### Primitive Types
@@ -39,3 +47,18 @@ More than or equal to operator `>=`
 
 And operator `&&`  
 Or operator `||`
+
+## What is callback hell
+
+- Is an anti-pattern seen in code of asyncronous programming.
+- Lots of nested functions.
+
+## What is a promise
+
+A promise is an object that may produce a single value some time in the future: either a resolved value, or a reason that it's not resolved.
+
+### States
+
+- Fulfilled
+- Rejected
+- Pending

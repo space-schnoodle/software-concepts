@@ -7,6 +7,11 @@ Software concepts to prepare for interviews and for life :)
 1. [The Solid Principles](software-concepts/the-solid-principles.md)
 1. [Big O](software-concepts/big-o.md)
 1. [Object-oriented programming](software-concepts/oop.md)
+1. [Functional Programming](software-concepts/functional-programming.md)
+1. [Test driven development](software-concepts/tdd.md)
+1. [Collaboration Skills](software-concepts/collaboration-skills.md)
+1. [Test driven development](software-concepts/tdd.md)
+1. [Test driven development](software-concepts/tdd.md)
 
 ## Javascript related
 
