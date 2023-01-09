@@ -3,10 +3,12 @@
 - Weekly type language.
 - No explicit type assignment.
 - Data types can be switched dynamically.
-- Data cab be organized in logical objects.
+- Data can be organized in logical objects.
 - Primitive and reference types.
 - Versatile language.
 - You can mix different types in an array.
+- Object-oriented languaje
+- Runs in browser and directly on a PC/server
 
 ## JavaScript types
 
@@ -62,3 +64,19 @@ A promise is an object that may produce a single value some time in the future: 
 - Fulfilled
 - Rejected
 - Pending
+
+## Questions
+
+### What is the difference between == and === ?
+
+== equals
+
+- Test for abstract equality
+- Does not tests for data type
+
+and
+
+=== strict equals
+
+- Test for strict equality
+- Does tests for data type

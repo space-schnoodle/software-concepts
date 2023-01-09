@@ -10,11 +10,16 @@ Software concepts to prepare for interviews and for life :)
 1. [Functional Programming](software-concepts/functional-programming.md)
 1. [Test driven development](software-concepts/tdd.md)
 1. [Collaboration Skills](software-concepts/collaboration-skills.md)
-1. [Test driven development](software-concepts/tdd.md)
-1. [Test driven development](software-concepts/tdd.md)
 
-## Javascript related
+## Javascript
 
 1. [JavaScript Basic Concepts](javascript/basic-concepts.md)
 1. [Javascript: Arrow Functions](javascript/es6-arrow-functions.md)
 1. [Javascript: Destructuring](javascript/es6-key-concepts-destructuring.js)
+1. [Closures](javascript/closures.md)
+1. [Hoisting](javascript/hoisting.md)
+1. [The `this` keyword](javascript/this-keyword.md)
+
+## NodeJS
+
+1. [NodeJS Concepts](node/node-concepts.md)
