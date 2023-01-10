@@ -1,4 +1,5 @@
-//Destructuring: The destructuring assignment syntax is a JavaScript expression that makes it possible to unpack values from arrays, or //properties from objects, into distinct variables.
+//Destructuring: The destructuring assignment syntax is a JavaScript expression that makes it possible to
+// unpack values from arrays, or properties from objects, into distinct variables.
 
 // Example 1: Objects
 
