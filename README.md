@@ -29,3 +29,7 @@ Software concepts to prepare for interviews and for life :)
 ## Databases
 
 1. [SQL vs NoSQL](databases/sql-vs-nosql.md)
+
+## React
+
+1 [React concepts](react/react.md)
