@@ -29,3 +29,15 @@ A simple example app to see how state works from parant to child.
 - Allows parent to configure each child differently (show different styles, text, etc)
 - One way flow data. Child can't push props back up
 - Understanding the props system is like 25% of understanding React
+
+#### On state
+
+- Use the state system when you want to update content on the screen
+- Calling `useState` defines a new piece of state.
+- The first argument to `useState` is used as the initial value.
+- Updating state is done only using the setter function.
+- Calling the setter function causes React to rerender the component.
+
+- Data that changes as the user interacts with our app
+- When this data changes, React will update content on the screen automatically
+- This is the one-and-only way we can change what content React shows.
