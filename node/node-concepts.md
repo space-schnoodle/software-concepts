@@ -59,3 +59,10 @@ Is a loop process that is managed by nodeJS that keeps on running as long as the
 Is super fast handling this requests.  
 Never block the event loop for too long.  
 Event loop handles all the callbacks in order.
+
+### ExpressJS
+
+- Server logic is complex
+- Is a set of helper functions for the heavy lifting.
+- It's very extensible.
+- It's all about middleware.

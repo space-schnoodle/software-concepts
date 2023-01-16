@@ -32,12 +32,12 @@ A simple example app to see how state works from parant to child.
 
 #### On state
 
+- Data that changes as the user interacts with our app
+- When this data changes, React will update content on the screen automatically
+- This is the one-and-only way we can change what content React shows.
+
 - Use the state system when you want to update content on the screen
 - Calling `useState` defines a new piece of state.
 - The first argument to `useState` is used as the initial value.
 - Updating state is done only using the setter function.
 - Calling the setter function causes React to rerender the component.
-
-- Data that changes as the user interacts with our app
-- When this data changes, React will update content on the screen automatically
-- This is the one-and-only way we can change what content React shows.
