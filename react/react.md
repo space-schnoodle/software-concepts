@@ -41,3 +41,15 @@ A simple example app to see how state works from parant to child.
 - The first argument to `useState` is used as the initial value.
 - Updating state is done only using the setter function.
 - Calling the setter function causes React to rerender the component.
+
+- When you update state, the component and all of its cgildren are rerendered.
+
+#### About key
+
+##### Requirements for keys
+
+- Use whenever we have a list of elements (so every time we do a map)
+- Add the key yo the top-most JSX element in the list.
+- Must be a string or number
+- Should be unique for this list
+- Should be consistent across renders.
