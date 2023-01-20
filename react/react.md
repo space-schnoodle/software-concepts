@@ -1,8 +1,13 @@
 # React
 
-Based on udemy course: https://www.udemy.com/course/react-redux/
+## Notes
 
-A simple example app to see how state works from parant to child.
+- React is a javascript library for building user interfaces.
+- It's about building modern, interactive user interfaces for the web. For instance mobile application.
+- Util for user experience.
+- React is all about components
+- Declarative
+- Single page applications
 
 ## Converting HTML to JSX
 
