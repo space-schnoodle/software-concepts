@@ -47,7 +47,8 @@
 - Updating state is done only using the setter function.
 - Calling the setter function causes React to rerender the component.
 
-- When you update state, the component and all of its cgildren are rerendered.
+- When you update state, the component and all of its children are rerendered.
+- Do not directly mutate/change/modify arrays or objects when they are used as state.
 
 #### About key
 
