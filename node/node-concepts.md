@@ -48,7 +48,7 @@ Loop - waits for new events
 ## Why NodeJS is single threaded?
 
 - NodeJS uses a single threaded model in order to support async processing.
-- With async processing, an application ca perform better and is more stable under web loads.
+- With async processing, an application can perform better and is more stable under web loads.
   NodeJS makes use of a single threaded model approach rather that a typical thread based implementation.
 - It works on a single threaded event loop and a non-blocking I/O which provides high rate as it can handle a higher number of cuncurrent requests.
 - By making use of the http module, nodeJS can run on any stand-alone web server.
