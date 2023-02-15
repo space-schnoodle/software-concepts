@@ -59,3 +59,23 @@
 - Must be a string or number
 - Should be unique for this list
 - Should be consistent across renders.
+
+
+#### Hooks
+
+Hooks are functions that add additional features to a component.
+
+*useState*: allows a component to use the state system.  
+*useEffect*: allows a component to run code at specific points in time.  
+*useContext*: allows a component to access values stored in context.  
+*useCallback*:   
+- Hook to help you tell React that your function isn't actually changing over time.
+- Fixes bugs around _useEffect_ and other similar situations.
+- Follows similar conventions as _useEffect_ (second argument is an array). 
+
+#### Custom Hooks
+
+- Functions we write to make reusable bits of logic.
+- Usually reuse basic hooks like _useState_, _useEffect_, etc.
+- Can do a lot or very little.
+
