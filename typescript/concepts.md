@@ -82,3 +82,13 @@ Creates a new type, describing the property names and value types of an object.
 
 - Create functions that accept arguments that are typed with interfaces.
 - Objects/classes can decide to 'implement' a given interface to work with a function.
+
+## Classes
+
+Blueprint to create an object with some fields (values) and methods (functions) to represent a 'thing'.
+
+### Class modifiers
+
+- _public_: this methiod can be called any where, any time
+- _private_: this method can only be called by other methods in this class.
+- _protected_: this method can be called by other methods in this class, or by other methods in child classes.
